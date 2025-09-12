@@ -24,3 +24,7 @@
 - 백엔드: Java 17+, Spring Boot 3.x, Maven
 - 프론트엔드: HTML, CSS, JavaScript (순정)
 - 운영: Maven Wrapper, 간단 스크립트(scripts/)
+
+## 홈화면
+![홈 화면](/images/KakaoTalk_20250905_232306353.png)
+![지도 화면](/images/KakaoTalk_20250905_232357184.png "지도 페이지")
