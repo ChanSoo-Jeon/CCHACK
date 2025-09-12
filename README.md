@@ -25,11 +25,47 @@
 - 프론트엔드: HTML, CSS, JavaScript (순정)
 - 운영: Maven Wrapper, 간단 스크립트(scripts/)
 
-## 홈화면
+## UX/UI
 <details>
   <summary>홈화면</summary>
 
   <p>
     <img src="/img/KakaoTalk_20250905_232306353.png" alt="홈 화면" width="720">
   </p>
+  <summary>쓰레기 해결 지도</summary>
+
+  <p>
+    <img src="/img/KakaoTalk_20250905_232357184.png" alt="쓰레기 지도" width="49%">
+    <img src="/img/KakaoTalk_20250905_232408484.png" alt="쓰레기 지도" width="49%">
+    
+  </p>
+  <summary>개인 미션</summary>
+
+  <p>
+    <img src="/img/KakaoTalk_20250905_235207077.png" alt="개인 미션" width="49%">
+    <img src="/KakaoTalk_20250905_234149589.png" alt="개인 미션" width="49">
+    <img src="KakaoTalk_20250905_234758801.png" alt="개인 미션" width="49">
+    <img src="KakaoTalk_20250905_235021447.png" alt="개인 미션" width="49">
+  </p>
+  <summary>홈화면</summary>
+
+  <p>
+    <img src="/img/KakaoTalk_20250905_232306353.png" alt="홈 화면" width="720">
+  </p>
+  <summary>홈화면</summary>
+
+  <p>
+    <img src="/img/KakaoTalk_20250905_232306353.png" alt="홈 화면" width="720">
+  </p>
+  <summary>홈화면</summary>
+
+  <p>
+    <img src="/img/KakaoTalk_20250905_232306353.png" alt="홈 화면" width="720">
+  </p>
+  <summary>홈화면</summary>
+
+  <p>
+    <img src="/img/KakaoTalk_20250905_232306353.png" alt="홈 화면" width="720">
+  </p>
+  
 </details>
