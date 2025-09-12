@@ -41,10 +41,11 @@
     <img src="img/KakaoTalk_20250905_232812436.png" alt="쓰레기 해결 지도 3" width="32%">
   </p>
   <p>
-  
+
+  ### 쓰레기 신고 과정
   https://github.com/user-attachments/assets/ef3aa03f-648e-4093-97ef-9fed2f4986c9
       
-
+  ### 쓰레기 해결 과정
   https://github.com/user-attachments/assets/3e57e0ae-4721-4243-81a9-768770d9b445
 
 
