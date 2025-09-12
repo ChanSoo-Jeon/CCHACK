@@ -41,16 +41,13 @@
     <img src="img/KakaoTalk_20250905_232812436.png" alt="쓰레기 해결 지도 3" width="32%">
   </p>
   <p>
-    <video width="49%" controls playsinline
-           poster="img/KakaoTalk_20250905_232357184.png" title="쓰레기신고 등록 데모">
-      <source src="https://github.com/user-attachments/assets/ef3aa03f-648e-4093-97ef-9fed2f4986c9" type="video/mp4">
-      브라우저가 video 태그를 지원하지 않습니다.
-    </video>
-    <video width="49%" controls playsinline
-           poster="img/KakaoTalk_20250905_232408484.png" title="쓰레기신고 해결 데모">
-      <source src="https://github.com/user-attachments/assets/3e57e0ae-4721-4243-81a9-768770d9b445" type="video/mp4">
-      브라우저가 video 태그를 지원하지 않습니다.
-    </video>
+  
+  https://github.com/user-attachments/assets/ef3aa03f-648e-4093-97ef-9fed2f4986c9
+      
+
+  https://github.com/user-attachments/assets/3e57e0ae-4721-4243-81a9-768770d9b445
+
+
   </p>
 </details>
 
