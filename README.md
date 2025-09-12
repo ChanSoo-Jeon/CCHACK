@@ -40,15 +40,17 @@
     <img src="img/KakaoTalk_20250905_232408484.png" alt="쓰레기 해결 지도 2" width="32%">
     <img src="img/KakaoTalk_20250905_232812436.png" alt="쓰레기 해결 지도 3" width="32%">
   </p>
-
-  <!-- GitHub에서 video 태그가 안 보일 때를 대비해 링크도 함께 둠 -->
   <p>
-    <video src="img/쓰레기신고 등록.mp4" width="49%" controls></video>
-    <video src="img/쓰레기신고 해결.mp4" width="49%" controls></video>
-  </p>
-  <p>
-    <a href="img/쓰레기신고 등록.mp4">쓰레기신고 등록.mp4</a> ·
-    <a href="img/쓰레기신고 해결.mp4">쓰레기신고 해결.mp4</a>
+    <video width="49%" controls playsinline
+           poster="img/KakaoTalk_20250905_232357184.png" title="쓰레기신고 등록 데모">
+      <source src="https://github.com/user-attachments/assets/ef3aa03f-648e-4093-97ef-9fed2f4986c9" type="video/mp4">
+      브라우저가 video 태그를 지원하지 않습니다.
+    </video>
+    <video width="49%" controls playsinline
+           poster="img/KakaoTalk_20250905_232408484.png" title="쓰레기신고 해결 데모">
+      <source src="https://github.com/user-attachments/assets/3e57e0ae-4721-4243-81a9-768770d9b445" type="video/mp4">
+      브라우저가 video 태그를 지원하지 않습니다.
+    </video>
   </p>
 </details>
 
@@ -62,16 +64,14 @@
     <img src="img/KakaoTalk_20250905_234758801.png" alt="개인 미션 3" width="49%">
     <img src="img/KakaoTalk_20250905_235021447.png" alt="개인 미션 4" width="49%">
   </p>
-  
 </details>
 
 <details>
   <summary>쓰레기 배출 요령</summary>
   <p>
-    <img src="img/KakaoTalk_20250906_002129385.png" alt="쓰배요1" width="49%">
-    <img src="img/KakaoTalk_20250906_002138951.png" alt="쓰배요2" width="49%">
+    <img src="img/KakaoTalk_20250906_002129385.png" alt="쓰배요 1" width="49%">
+    <img src="img/KakaoTalk_20250906_002138951.png" alt="쓰배요 2" width="49%">
   </p>
-  
 </details>
 
 <details>
@@ -80,5 +80,4 @@
     <img src="img/KakaoTalk_20250905_232920918.png" alt="마이페이지 신고" width="49%">
     <img src="img/KakaoTalk_20250905_232928837.png" alt="마이페이지 해결" width="49%">
   </p>
-  
 </details>
