@@ -8,60 +8,77 @@
 ![Made in](https://img.shields.io/badge/Made%20in-Korea-black)
 
 ## 소개
-춘천시 시민참여형 서비스 아이디어를 빠르게 검증하기 위해 만든 웹 애플리케이션 
+춘천시 시민참여형 서비스 아이디어를 빠르게 검증하기 위해 만든 웹 애플리케이션
 - Spring Boot 기반의 서버
-- 정적 리소스와 HTML/CSS/JS로 화면을 제공
-- 레포지토리는 Apache-2.0 라이선스를 사용
-- 주 사용 언어 비중은 CSS, HTML, JavaScript, Java
+- 정적 리소스와 HTML/CSS/JS로 화면 제공
+- 레포지토리는 Apache-2.0 라이선스 사용
+- 주 사용 언어 비중: CSS, HTML, JavaScript, Java
 
 ## 핵심 기능
-- 시민 참여 화면: 신고/미션 등 간단한 폼과 지도 보기
-- 데이터 처리: 서버 사이드에서 요청 파라미터 검증과 라우팅
-- 정적 페이지: 빠른 시연을 위한 반응형 UI 구성
-- 스크립트 자동화: 빌드, 실행, 배포 보조 스크립트 제공
+- 시민 참여 화면: 신고/미션 폼과 지도 보기
+- 데이터 처리: 서버 사이드 파라미터 검증과 라우팅
+- 정적 페이지: 빠른 시연용 반응형 UI
+- 스크립트 자동화: 빌드, 실행, 배포 보조 스크립트
 
 ## 기술 스택
 - 백엔드: Java 17+, Spring Boot 3.x, Maven
-- 프론트엔드: HTML, CSS, JavaScript (순정)
+- 프론트엔드: HTML, CSS, JavaScript(순정)
 - 운영: Maven Wrapper, 간단 스크립트(scripts/)
 
 ## UX/UI
 <details>
-  <summary>홈화면</summary>
-
+  <summary>홈 화면</summary>
   <p>
-    <img src="/img/KakaoTalk_20250905_232306353.png" alt="홈 화면" width="720">
+    <img src="img/KakaoTalk_20250905_232306353.png" alt="홈 화면" width="720">
   </p>
 </details>
 
 <details>
   <summary>쓰레기 해결 지도</summary>
-
   <p>
-    <img src="/img/KakaoTalk_20250905_232357184.png" alt="쓰레기 지도" width="33%">
-    <img src="/img/KakaoTalk_20250905_232408484.png" alt="쓰레기 지도" width="33%">
-    <img src="/KakaoTalk_20250905_232812436.png" alt="쓰레기 지도" width="33%">   
-    <img src="/img/쓰레기신고 등록.mp4" alt="쓰레기 지도" width="49%">
-    <img src="/img/쓰레기신고 해결.mp4" alt="쓰레기 지도" width="49%">
-    
+    <img src="img/KakaoTalk_20250905_232357184.png" alt="쓰레기 해결 지도 1" width="32%">
+    <img src="img/KakaoTalk_20250905_232408484.png" alt="쓰레기 해결 지도 2" width="32%">
+    <img src="img/KakaoTalk_20250905_232812436.png" alt="쓰레기 해결 지도 3" width="32%">
+  </p>
+
+  <!-- GitHub에서 video 태그가 안 보일 때를 대비해 링크도 함께 둠 -->
+  <p>
+    <video src="img/쓰레기신고 등록.mp4" width="49%" controls></video>
+    <video src="img/쓰레기신고 해결.mp4" width="49%" controls></video>
+  </p>
+  <p>
+    <a href="img/쓰레기신고 등록.mp4">쓰레기신고 등록.mp4</a> ·
+    <a href="img/쓰레기신고 해결.mp4">쓰레기신고 해결.mp4</a>
   </p>
 </details>
 
 <details>
   <summary>개인 미션</summary>
-
   <p>
-    <img src="/img/KakaoTalk_20250905_235207077.png" alt="개인 미션" width="49%">
-    <img src="/KakaoTalk_20250905_234149589.png" alt="개인 미션" width="49%">
-    <img src="KakaoTalk_20250905_234758801.png" alt="개인 미션" width="49%">
-    <img src="KakaoTalk_20250905_235021447.png" alt="개인 미션" width="49%">
+    <img src="img/KakaoTalk_20250905_235207077.png" alt="개인 미션 1" width="49%">
+    <img src="img/KakaoTalk_20250905_234149589.png" alt="개인 미션 2" width="49%">
   </p>
+  <p>
+    <img src="img/KakaoTalk_20250905_234758801.png" alt="개인 미션 3" width="49%">
+    <img src="img/KakaoTalk_20250905_235021447.png" alt="개인 미션 4" width="49%">
+  </p>
+  
 </details>
 
 <details>
-  <summary>홈화면</summary>
-
+  <summary>쓰레기 배출 요령</summary>
   <p>
-    <img src="/img/KakaoTalk_20250905_232306353.png" alt="홈 화면" width="720">
+    <img src="img/KakaoTalk_20250906_002129385.png" alt="쓰배요1" width="49%">
+    <img src="img/KakaoTalk_20250906_002138951.png" alt="쓰배요2" width="49%">
   </p>
+  
+</details>
+
+<details>
+  <summary>마이페이지</summary>
+  <p>
+    <img src="img/KakaoTalk_20250905_232920918.png" alt="마이페이지 신고" width="49%">
+    <img src="img/KakaoTalk_20250905_232928837.png" alt="마이페이지 해결" width="49%">
+  </p>
+  
 </details>
